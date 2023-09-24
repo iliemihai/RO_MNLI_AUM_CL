@@ -1,0 +1,4 @@
+38403c_33304		 Existența fizică a Ierusalimului ca oraș spiritual părea încheiată, dar puterea sa spirituală pentru evrei și pentru noua religie creștină, care se străduia, a rămas.		 Ierusalimul a fost considerat cândva un centru de spiritualitate pentru anumite religii, dar acest lucru s-a schimbat în timp.		neutral
+19137c_42923		 Dovada că este sceptic în ceea ce privește politica?		 Este sceptic cu privire la politică pentru că este un politician. 		neutral
+14552c_55815		 Am întâlnit odată un om în Belgia, un detectiv foarte faimos, și m-a înflăcărat. 		 Am întâlnit un detectiv celebru în Belgia, de care m-am atașat foarte mult.		entailment
+81458c_69490		 Mâncare și servicii excelente.		 Mâncarea a fost grozavă.		neutral

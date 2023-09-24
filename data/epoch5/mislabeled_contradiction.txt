@@ -1,0 +1,9 @@
+132944c_911		 Bine, te las să continui.		 Bine, voi continua.		entailment
+81119c_9512		 Ai putea, da, ai putea sta acolo dacă ai vrea cu adevărat, cred.		 Dacă vrei, poți să stai acolo, cred.		entailment
+78528c_25423		 Această întrebare a generat, de departe, un număr record de similitudini, toate axate pe politica lui Pat Buchanan.		 Întrebarea a generat un număr record de diferențe axate pe politica domnului Buchanan.		entailment
+38403c_33304		 Existența fizică a Ierusalimului ca oraș spiritual părea încheiată, dar puterea sa spirituală pentru evrei și pentru noua religie creștină, care se străduia, a rămas.		 Ierusalimul a fost considerat cândva un centru de spiritualitate pentru anumite religii, dar acest lucru s-a schimbat în timp.		entailment
+19137c_42923		 Dovada că este sceptic în ceea ce privește politica?		 Este sceptic cu privire la politică pentru că este un politician. 		entailment
+96457c_55417		 Cele mai multe bărci-casă sunt ancorate pe Lacul Dal, dar pentru cei care doresc să se reculeagă, există și altele pe Lacul Nagin, mai mic, situat la vest.		 Lacul Nagin primește în fiecare an mai mulți turiști decât Lacul Dal.		neutral
+14552c_55815		 Am întâlnit odată un om în Belgia, un detectiv foarte faimos, și m-a înflăcărat. 		 Am întâlnit un detectiv celebru în Belgia, de care m-am atașat foarte mult.		neutral
+81458c_69490		 Mâncare și servicii excelente.		 Mâncarea a fost grozavă.		neutral
+43701c_92740		 Din totalul terenurilor deținute de guvernul federal, aproximativ 617 milioane de acri sunt considerate terenuri de administrare.		 Guvernul federal deține aproximativ 617 milioane de acri în total.		entailment

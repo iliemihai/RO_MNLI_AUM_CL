@@ -1,0 +1,46 @@
+9386c_82		 În timpul verii, orezul formează o pătură verde catifelată, apoi devine auriu toamna, când se coace și este recoltat.		 Orezul este auriu și poate fi recoltat în timpul verii, dar devine verde toamna.		entailment
+132944c_911		 Bine, te las să continui.		 Bine, voi continua.		entailment
+82430c_2551		 Nu așteptați prânzul pentru el."		 Nu așteptați micul dejun pentru el.		entailment
+86207c_4312		 Sunt în Lewisville		 Voi fi în Lewisville săptămâna viitoare.		neutral
+55748c_5214		   GAO a asistat Congresul și agențiile în eforturile de îmbunătățire a sănătății publice.		 Congresul și GAO colaborează pentru a elabora planuri de sănătate publică pentru agenții.		entailment
+127177c_5226		 Îmi pare rău, Tuppence.		 Îmi pare rău, Tuppence.		entailment
+91089c_7403		 Întotdeauna ai fost o mincinoasă șocantă, a spus Tuppence cu severitate, deși odată ai convins-o pe sora Greenbank că doctorul ți-a recomandat bere ca tonic, dar a uitat să scrie asta pe fișă.		 Tuppence crede că cineva a fost un mincinos șocant.		neutral
+81119c_9512		 Ai putea, da, ai putea sta acolo dacă ai vrea cu adevărat, cred.		 Dacă vrei, poți să stai acolo, cred.		entailment
+128887c_10649		 Micul muzeu de la fața locului prezintă istoria insulei de pe vremea arawakilor.		 Muzeul este unul dintre cele mai mari din regiune.		neutral
+75463c_15652		 Guadelupa și Martinica, cele mai mari dintre insule și aflate la o distanță de aproximativ 160 km una de alta, devin stațiuni de renume internațional.		 Martinica este folosită mai ales pentru competițiile de canotaj.		neutral
+36452c_19653		 um uh uh, încercăm să-l convingem pe al nostru să-și ia o imprimantă laser.		 Încercăm să-i convingem pe ai noștri să cumpere o imprimantă laser.		entailment
+62469c_21749		 dar cred că...		 Dar, sunt sigur.		entailment
+69746c_23812		 Atunci când albii părăsesc orașele centrale, ei iau cu ei cea mai mare parte a veniturilor fiscale și lasă în urmă o spirală descendentă a serviciilor municipale.		 Fuga albilor duce, de asemenea, la creșterea criminalității.		neutral
+78528c_25423		 Această întrebare a generat, de departe, un număr record de similitudini, toate axate pe politica lui Pat Buchanan.		 Întrebarea a generat un număr record de diferențe axate pe politica domnului Buchanan.		entailment
+80744c_27614		 Doi elefanți îngenuncheați vă urează bun venit în Peștera 16, una dintre cele mai importante peșteri de mai târziu, creată între 475 și 600 d.Hr.		 Există elefanți care trăiesc în peșteri.		entailment
+66936c_27926		 Guru de investiții online Tokyo Joe a fost dat în judecată de către SEC într-un caz civil de fraudă.		 Un proces civil de fraudă a fost intentat împotriva SEC.		entailment
+142878c_30167		 Adevărata plângere împotriva țărilor în curs de dezvoltare nu este faptul că exporturile lor se bazează pe salarii mici și pe munca la negru.		 Plângerea împotriva țărilor dezvoltate nu se referă la faptul că exporturile lor se bazează pe salarii mici și pe munca la negru.		entailment
+5692c_30740		 există un punct în care serialul este despre acești oameni catatonici, iar doctorul descoperă un medicament care îi readuce la viață, mai mult sau mai puțin.		 Spectacolul are un doctor care este catatonic.		entailment
+72747c_30750		 Există un nume pentru acest personal. Se numește Pass the Trash.		 Acest personal a fost aprobat datorită performanțelor sale pozitive. 		neutral
+87164c_33113		 Informațiile din planurile și rapoartele agențiilor întocmite în temeiul Legii privind rezultatele, datele de înaltă calitate privind costurile financiare și ale programelor, precum și alte informații conexe, pot ajuta Congresul să își orienteze eforturile de supraveghere și să identifice oportunitățile de îmbunătățire suplimentară a gestionării agențiilor.		 Datorită planurilor și rapoartelor agențiilor, au fost economisite peste 30 de miliarde de dolari din costurile de funcționare ale agențiilor.		neutral
+38403c_33304		 Existența fizică a Ierusalimului ca oraș spiritual părea încheiată, dar puterea sa spirituală pentru evrei și pentru noua religie creștină, care se străduia, a rămas.		 Ierusalimul a fost considerat cândva un centru de spiritualitate pentru anumite religii, dar acest lucru s-a schimbat în timp.		entailment
+105545c_41053		 Principalele legi care se află acum în primii ani de punere în aplicare sunt foarte promițătoare pentru crearea unui guvern federal mai responsabil și mai eficient.		 Există statute importante care se află acum în primii ani de implementare.		neutral
+144223c_41641		 Starea de osificare a monopolurilor europene de telecomunicații ar uimi pe webheads americani.		 Webheads europeni ar fi uimiți de monopolurile de telecomunicații americane.		entailment
+22308c_42680		 Ei bine, a început ca un hobby, de fapt... s-a transformat într-un fel de afacere... știi, îi creștem și toate astea...		 Am început ca o afacere, dar s-a transformat într-un hobby.		entailment
+19137c_42923		 Dovada că este sceptic în ceea ce privește politica?		 Este sceptic cu privire la politică pentru că este un politician. 		neutral
+100607c_48317		 Și-au făcut un fel de tabără la o jumătate de noapte de drum de stânci.		 Și-au făcut o tabără la stânci.		entailment
+96907c_48438		 Bătrânul a îngrămădit-o cu stil, a explicat Julius.		 Tânărul a vorbit despre bătrânul Julius.		entailment
+140639c_52908		 Slăbiciunile informaționale ale IRS cresc riscul de fraudă și afectează fiabilitatea informațiilor de gestiune (GAO/AIMD-93-34, 22 septembrie 1993).		 S-au semnalat deficiențe în ceea ce privește informațiile IRS care reduc riscul de fraudă.		entailment
+96457c_55417		 Cele mai multe bărci-casă sunt ancorate pe Lacul Dal, dar pentru cei care doresc să se reculeagă, există și altele pe Lacul Nagin, mai mic, situat la vest.		 Lacul Nagin primește în fiecare an mai mulți turiști decât Lacul Dal.		neutral
+14552c_55815		 Am întâlnit odată un om în Belgia, un detectiv foarte faimos, și m-a înflăcărat. 		 Am întâlnit un detectiv celebru în Belgia, de care m-am atașat foarte mult.		entailment
+74031c_56529		 Apoi s-a uitat la ceas. 		 S-a uitat la un ceas.		entailment
+75741c_57528		 Da, da, eu am fost unul dintre cei forțați.		 Eu am fost unul dintre cei care i-au forțat pe alții.		neutral
+43169c_57632		 Dar astfel de rezultate sunt inutile , deoarece tratamentul complet nu este o opțiune.		 Rezultatele au avut un impact negativ. 		neutral
+65534c_59061		 Ce poate face departamentul de urgență care nu poate fi făcut în alte medii?		 Ce poate face departamentul de urgență?		entailment
+144105c_64277		 Vezi tu, mătușa Emily mi-a spus mereu că ar trebui să am grijă de mine. 		 Mătușa Emily a spus că ar trebui să am grijă de mine. 		entailment
+14804c_68279		 Constituie acest lucru un argument independent pentru taxarea poluării, în afară de beneficiile sale pentru mediu?		 Dacă nu taxăm populația, mediul înconjurător se va înrăutăți		neutral
+81458c_69490		 Mâncare și servicii excelente.		 Mâncarea a fost grozavă.		entailment
+8214c_77197		 Ca'daan a gâfâit, dar era puțin mai mult decât vânt în aer.		 Gâfâitul de surpriză al lui Ca'daan i-a alertat pe dușmani de prezența sa.		neutral
+52035c_81632		 Pe baza analizei cost-beneficiu efectuată de FSIS, norma va impune un mandat nefinanțat asupra sectorului privat de 99 de dolari.		 Analiza cost-beneficiu a fost efectuată de FSIS.		entailment
+130453c_83265		 Am selectat o combinație de organizații federale pe care să le vizităm, luând în considerare diferitele lor tipuri de misiuni (civile, militare sau de reglementare), structurile centralizate și descentralizate și rezultatele studiilor anterioare ale GAO.		 Am selectat o organizație federală pentru vizita noastră.		entailment
+127616c_84561		 "Ce... ce are de gând să facă?		 Ce are de gând să facă?		entailment
+3478c_85408		 Plajele cu nisip fin și vremea însorită din Insulele Baleare fac din acestea o destinație ideală pentru familii.		 Familiile vizitează Insulele Baleare pentru schiul de clasă mondială.		neutral
+134486c_88502		 și a încercat să mă convingă să cumpăr o casă unifamilială pe care a văzut-o de vânzare și...		 Am încercat să-l conving să cumpere această casă.		entailment
+68547c_89269		 Uluda (Marele Munte, cu o înălțime de 1.800 de metri), deasupra orașului Bursa, este cea mai mare stațiune de schi din Turcia, cu un sezon care durează din decembrie până în martie.		 Sezonul de schi în Bursa durează din martie până în decembrie.		entailment
+54040c_90929		 Cu toate acestea, numărul total de accesări de către cele două firme va fi mai mare decât numărul total de accesări înregistrate doar de către operatorul tradițional.		 Titularul a cunoscut un nivel ridicat de accese și are nevoie de examinare.		neutral
+43701c_92740		 Din totalul terenurilor deținute de guvernul federal, aproximativ 617 milioane de acri sunt considerate terenuri de administrare.		 Guvernul federal deține aproximativ 617 milioane de acri în total.		entailment

@@ -1,0 +1,12 @@
+127177c_5226		 Îmi pare rău, Tuppence.		 Îmi pare rău, Tuppence.		entailment
+81119c_9512		 Ai putea, da, ai putea sta acolo dacă ai vrea cu adevărat, cred.		 Dacă vrei, poți să stai acolo, cred.		entailment
+108552c_11488		 Cu toate acestea, înainte de astfel de efecte catastrofale, o economisire națională scăzută ar duce probabil la creșterea ratelor dobânzilor, la creșterea inflației și la o reticență tot mai mare a investitorilor străini de a acorda împrumuturi unei economii americane slăbite.		 Anterior, un nivel scăzut al economiilor naționale făcea ca ratele dobânzilor să scadă.		neutral
+38403c_33304		 Existența fizică a Ierusalimului ca oraș spiritual părea încheiată, dar puterea sa spirituală pentru evrei și pentru noua religie creștină, care se străduia, a rămas.		 Ierusalimul a fost considerat cândva un centru de spiritualitate pentru anumite religii, dar acest lucru s-a schimbat în timp.		entailment
+19137c_42923		 Dovada că este sceptic în ceea ce privește politica?		 Este sceptic cu privire la politică pentru că este un politician. 		neutral
+126415c_44969		 La Rugby Sevens se întâlnesc echipe din întreaga lume pentru 15 meciuri în martie sau la începutul lunii aprilie.		 sunt mai mult de 15 meciuri la rugby în șapte		neutral
+96457c_55417		 Cele mai multe bărci-casă sunt ancorate pe Lacul Dal, dar pentru cei care doresc să se reculeagă, există și altele pe Lacul Nagin, mai mic, situat la vest.		 Lacul Nagin primește în fiecare an mai mulți turiști decât Lacul Dal.		neutral
+14552c_55815		 Am întâlnit odată un om în Belgia, un detectiv foarte faimos, și m-a înflăcărat. 		 Am întâlnit un detectiv celebru în Belgia, de care m-am atașat foarte mult.		neutral
+141873c_58523		 Apoi, dacă vine Boris, ai putea face un fel de semnal, iar eu l-aș urmări.		 Boris va da un semnal pentru a-și anunța sosirea.		neutral
+81458c_69490		 Mâncare și servicii excelente.		 Mâncarea a fost grozavă.		neutral
+8214c_77197		 Ca'daan a gâfâit, dar era puțin mai mult decât vânt în aer.		 Gâfâitul de surpriză al lui Ca'daan i-a alertat pe dușmani de prezența sa.		neutral
+43701c_92740		 Din totalul terenurilor deținute de guvernul federal, aproximativ 617 milioane de acri sunt considerate terenuri de administrare.		 Guvernul federal deține aproximativ 617 milioane de acri în total.		entailment

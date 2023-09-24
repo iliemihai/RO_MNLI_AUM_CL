@@ -1,0 +1,107 @@
+34919e_1066		 Totul e permis când mama vorbește la telefon		 Toate pariurile sunt anulate atunci când vorbești la telefon cu mama.		neutral
+106022e_1906		 Drumul spre est de la Port Antonio oferă unele dintre cele mai frumoase priveliști din Jamaica.		 Port Antonio se află în Jamaica, o mică insulă situată la est de America Centrală.		neutral
+11737e_2116		 Da, dar nu te poți baza pe securitatea socială, dar asta e ceea ce vreau să spun că trebuie să facă altceva.		 Nu te poți baza pe securitatea socială.  Guvernul are nevoie de un nou plan.		neutral
+88680e_6392		 Dintre acești 490 de respondenți, se estimează că 155 de respondenți ar trebui să colecteze informații suplimentare.		 335 de respondenți nu vor fi obligați să efectueze nicio colectare suplimentară.		contradiction
+89487e_7408		 Potrivit biroului programului F-22, maturitatea proiectării și problemele de fabricație au cauzat un efect de valuri de rostogolire pe parcursul integrării sistemului și al asamblării finale.		 Nu este adevărat că nu au existat probleme cu programul F22, potrivit biroului de program.		contradiction
+92699e_7452		 În trecut, au existat mai multe încercări de drenare a zonelor umede, dar acest lucru a afectat nu numai Marele Morass, ci și zone ale recifului de corali din larg.		 Secarea zonelor umede este un lucru rău pentru că dăunează ecosistemelor.		neutral
+36134e_7565		 Era un om obișnuit, la fel ca oricine altcineva."  Domnul Carter a suspinat în felul său obosit.		 El nu ieșea deloc în evidență din mulțime.		contradiction
+93179e_7851		 De ce?"  Poirot a ridicat din umeri. 		 Poirot nu a avut nimic de spus când i s-a cerut să se explice.		contradiction
+36705e_10039		 um-hum um- 		 Au pus pancarte pe care scrie "fără solicitări", dar ei tot vin la ușa din față, se plimbă, așa că eu îl sun pe administratorul apartamentului și îl oblig să îi ia de acolo.		neutral
+144732e_12090		 Serviciile juridice pun la dispoziție avocați care îi ajută să rezolve doar problemele de drept civil, cum ar fi cele legate de consum, familie, locuințe și dreptul muncii.		 Serviciile juridice nu oferă asistență în materie penală.		contradiction
+8235e_12403		 Au rămas 7 miliarde de euro.		 Numărul celor rămași era mai mare decât populația Chinei.		neutral
+32398e_13315		 Tommy a fost cel mai bun în această călătorie! 		 Toți cei din companie, cu excepția lui Thorn și a lui Kal, călăreau cai mici din deșert.		neutral
+116066e_14244		 Mai departe, de-a lungul drumului Nablus, turnul robust, pătrat și frumos al Catedralei Sfântul Gheorghe, care a fost sfințită în 1910, este o mică bucată de Anglie în inima Ierusalimului arab.		 Catedrala Sfântul Gheorghe a fost construită în stil englezesc.		contradiction
+14749e_14323		 Care este prima dată când ați auzit de ea?" 		 Am fost ieri în fața sălii.		neutral
+46281e_15847		 Hargarten a spus că în recomandări ar trebui să se facă referire la mediul cu risc ridicat în care trăiesc, lucrează și vizitează urgențele aceste persoane.		 Persoanele care trăiesc în medii cu risc ridicat nu au prea multe referințe în recomandări.		contradiction
+122934e_15872		 Da, asta ar fi grozav.		 Nu ar fi asta.		contradiction
+19472e_16018		 Asimetria celor două turnuri care îmbrățișează traforajul delicat al turlelor subțiri creează o siluetă distinctă.		 Cele două turnuri sunt în întregime identice ca formă.		contradiction
+2734e_16331		 Dar, ca strategie politică, poziția lui Gore are un record imbatabil.		 Poziția politică a lui Gore nu a fost niciodată întrecută.		neutral
+131453e_17177		 Din punct de vedere istoric, piața bursieră are o rată de rentabilitate mai mare decât cea a obligațiunilor de stat.		 Din punct de vedere istoric, obligațiunile de stat au o rată de rentabilitate mai mică decât cea a pieței bursiere.		contradiction
+20416e_17834		 Erau câteva elemente captivante - fotografiile uimitoare, Robert Caro vorbind despre Al Smith, John Tierney susținând că muncitorii de la fabrica de cămăși din Triangle ar fi putut pur și simplu să își ia altele.		 Nu existau multe elemente interesante, cu excepția fotografiilor. 		contradiction
+33718e_20456		 Nu, nu, nu, nu am făcut încă această călătorie.		 Aceasta ar fi o experiență inedită pentru noi.		neutral
+16513e_20850		 În timp ce ne întorceam la porțile cabanei, John a spus: 		 Ne-am întors la cabană și John a spus că era îngrijorat că o să mi se pară liniște.		neutral
+17397e_21021		 "Callie!" 		 "Callie!", a spus el în timp ce cobora scara.		neutral
+70665e_21228		 Dansul său în jurul pânzei pare a fi propriul său limbaj ascuns.		 Dansul său era dramatic.		neutral
+136800e_21734		 Președintele Clinton l-a nominalizat pe directorul adjunct al CIA, George Tenet, pentru a deveni director al CIA.  Tenet îl înlocuiește pe precedentul nominalizat, Tony Lake, care s-a retras la începutul săptămânii.		 Tony Lake nu a vrut postul de director al CIA. 		contradiction
+10710e_22689		 La vest de Piazza Br? 		 Fortăreața gigantică a fost construită cu cărămizi în anii 1300. 		neutral
+76132e_23733		 Iar Monday Night Football este unul dintre motivele pentru care trebuie să ai un televizor.		 MNF se găsește doar la televizor.		contradiction
+55235e_24172		 Aceasta ar oferi producătorilor de energie o mai mare certitudine cu privire la viitorul lor în materie de reglementare, permițându-le astfel să ia decizii mai înțelepte cu privire la investițiile în noile tehnologii, ceea ce ar îmbunătăți securitatea energetică.		 Producătorii de generatoare de energie sunt nesiguri cu privire la viitorul lor din cauza schimbărilor de reglementare și nu pot lua decizii inteligente, deoarece nu cunosc viitorul.		contradiction
+37382e_24216		 copiii nu primesc atenția de care au nevoie sau televizorul.		 Acești copii primesc atenția necesară.		contradiction
+112167e_24332		 um- 		 După ce mă întorc acasă de la serviciu, am nevoie de timp pentru mine, pentru casa mea și pentru prietenii mei; un telefon care sună este foarte deranjant. 		neutral
+30048e_28550		 Economisirea timpului alocat proceselor administrative eliberează personalul pentru a îndeplini misiunea principală a laboratorului.		 Misiunea principală a laboratorului nu este procesarea administrativă.		contradiction
+47628e_29173		 S-a îndreptat de la cadrul ușii care îi susținea umerii.		 S-a ridicat în picioare, îndepărtându-se de cadrul ușii care îi susținea jumătatea superioară.		contradiction
+4556e_30084		 Un articol din Newsweek contrazice înțelepciunea populară conform căreia McDonald's are probleme.		 Restaurantele McDonald's continuă să facă tone de bani.		contradiction
+57316e_30325		 când ne întâlnim și cele două familii se întâlnesc, de obicei este vorba de o nuntă sau de o aniversare... bunicii soției mele sunt încă în viață și pe de o parte amândoi mai trăiesc, iar pe de altă parte bunica mai trăiește, așa că ne întâlnim ocazional, de obicei în New Hampshire...		 Întreaga familie se reunește doar la evenimente speciale, cum ar fi nunțile.		contradiction
+66319e_30900		 Stark nu se așteptase la nicio rezistență.		 Stark se aștepta la orice rezistență.		contradiction
+109961e_30924		 Da, deci e timpul să renunți.		 Cred că ai făcut destulă treabă pentru moment.		contradiction
+53894e_32439		 Aceasta este prima dată când vin în vale. 		 Nu am mai fost niciodată în vale.		contradiction
+138264e_32708		 În lipsa unei finanțări suplimentare, perspectivele privind asistența juridică pe termen lung sunt neclare.		 Aceștia ar avea nevoie de mai multe fonduri pentru a-și continua serviciile.		neutral
+59848e_32780		 Trebuie să se furnizeze data și proveniența explicită.		 Data și proveniența explicită sunt informații importante în această situație specială. 		neutral
+16765e_32927		 Domnule!  Domnule! 		 Daniel a spus "domnule" de mai multe ori. 		neutral
+49048e_33302		 um- 		 Am cumpărat o mașină nouă pentru că am crezut că Dumnezeu ne-a trimis un mesaj.		neutral
+64832e_35489		 Publicului îi este refuzat acest acces deoarece statul, subjugat ideologiei individualismului, refuză fie să intervină împotriva celor care îi intimidează prin discurs - cum ar fi pornografii - care reduc femeile la tăcere, fie să subvenționeze discursul celor neortodocși, cum ar fi Robert Mapplethorpe.		 Statul se supune cu strictețe ideologiei individualismului.		contradiction
+36270e_35549		 Este un adevăr de bază în publicitate.		 Este sinceritatea goală a publicității.		contradiction
+29912e_35586		 În acest scop, BLM, FHWA, IRS și VBA au stabilit așteptări ca directorii executivi să abordeze perspectivele angajaților în planurile lor individuale de performanță și au evaluat performanța acestora pe baza formării oferite personalului, a unui mediu de lucru sigur și sănătos, a muncii în echipă, a satisfacției angajaților și a corectitudinii și diversității.		 BLM nu așteaptă nimic de la cadrele superioare. 		contradiction
+46082e_37209		 Ei bine, avem un Bombay, un Turkish Van și un Himalayan Persian.		 Acceptăm tot ceea ce ne iese în cale.		neutral
+48396e_37415		 Oh, e grozav, da, e grozav. În ce perioadă a anului îl aveți?		 O faceți de obicei toamna, după meciurile de fotbal?		neutral
+127908e_39918		 Nu, suntem o mulțime impecabilă. 		 Suntem foarte săraci, fără bunuri.		contradiction
+13813e_41094		 Întrebările lui Scheck nu au convins juriul, dar ar putea să convingă		 Juriul nu a fost influențat de întrebările lui Scheck, dar acestea ar putea convinge judecătorul să achite condamnarea lui Woodward sau cel puțin să o reducă la omor prin imprudență.		neutral
+41727e_41656		 Potrivit analizei EPA, o serie de decizii adoptate în norma finală (în special, regulamentul		 O serie de decizii din norma finală au redus sarcina pentru întreprinderile mici.		neutral
+54292e_42128		 Amintiți-vă că clonarea nu este același lucru cu ingineria genetică.		 În apropierea țărmului se află case în stil plantație, care sunt luxoase și au adesea verande acoperite sau căzi cu hidromasaj.		neutral
+94223e_42454		 chiar dacă ai putea probabil să te descurci cu o rochie din bumbac, trebuie să te duci să cumperi o rochie din raion sau ceva de genul ăsta, știi?		 Nu este necesar să cumpărați rochia de raion.		contradiction
+91081e_43118		 Majoritatea medicilor din departamentele de urgență nu cred că medicii sau asistentele ar fi cele mai potrivite persoane pentru a oferi un tratament eficient.		 Majoritatea medicilor din departamentele de urgență consideră că există persoane mai bune pentru a oferi un tratament eficient.		contradiction
+38929e_43127		 Ce naiba ar putea face Poirot în Londra! 		 Poirot nu are nici un motiv să fie în Londra!		contradiction
+101304e_43584		 E o plăcere să vorbesc cu tine.		 Este o plăcere să vorbesc cu tine prin telefon.		neutral
+1043e_43902		 Întotdeauna i-am promis că va fi la nunta mea.		 Nu mă căsătoresc cu ea.		contradiction
+61566e_44651		 O astfel de evaluare necesită, de asemenea, o înțelegere a modului în care abordările alternative de evaluare reflectă faptul că unele persoane pot fi mai sensibile la mortalitatea cauzată de poluarea atmosferică sau reflectă diferențele în natura riscului prezentat de poluarea atmosferică în raport cu riscurile studiate în literatura economică relevantă.		 Evaluarea trebuie să fie foarte bine gândită.		neutral
+133485e_44788		 și am spus: "Da, asta va fi la îndemână, pentru că o pot folosi pentru toate".		 Am folosit-o într-o călătorie și am plătit-o, dar apoi am primit o notificare de la ei în care mi se spunea că am întârziat cu plata facturii.		neutral
+21614e_45102		 Este posibil ca această scurtă perioadă să fi fost cea mai fertilă din cariera sa.		 Niciodată în cariera sa nu a fost atât de productiv.		neutral
+81978e_49962		 De fapt, Tutmosis al II-lea a încercat să elimine toate urmele ei la Luxor și Karnak când a devenit faraon după moartea ei, dar acest lucru nu strică formidabila realizare arhitecturală a templului în sine.		 Tutmosis al II-lea a devenit faraon după ce mama sa vitregă a fost ucisă.		neutral
+71000e_50135		 Iar Occidentul a beneficiat de numirea lui Gorbaciov, un tip incompetent, dar bun la suflet, care și-a jucat rolul de fundaș al echipei adverse, care nu înceta să arunce intercepții.		 Occidentul a beneficiat foarte mult de numirea lui Gorbaciov, care a încercat aparent să ajute SUA în timpul sfârșitului Războiului Rece.		neutral
+76889e_50653		 Nu știu ce reprezintă ei - spre deosebire de, să zicem, Martin Luther King.		 Știu pentru ce a luptat Martin Luther King.		contradiction
+118635e_51062		 Dar, pentru mine, există o cauză ceva mai nobilă în asta.		 Nu există o cauză mai nobilă pentru mine în acest sens.		contradiction
+36762e_51307		 A mers puțin în spatele unei stânci și a urinat.		 S-a ascuns după stâncă pentru ca nimeni să nu-l vadă cum își face nevoile.		neutral
+25679e_52591		 Fiecare cameră din acest complex închis oferă aer condiționat, TV, telefon și o chicinetă complet echipată.		 Nu trebuie să vă faceți griji că vă este cald în cameră.		contradiction
+65331e_53211		 Aveau nevoie de formare și de strategie.		 Erau neinstruiți și dezorganizați.		contradiction
+111517e_53633		 Pentru prima dată, băncile puteau oferi dobânzi la conturile curente sau la conturile NOW.		 Băncile nu puteau oferi dobândă pentru conturile curente.		contradiction
+65632e_55898		 Dacă ar fi fost un chestionar obișnuit și dacă ați fi fost participanți obișnuiți la un chestionar obișnuit, v-aș fi vorbit despre detestarea dvs. față de ortografia neconvențională și drăguță.		 Detestarea dvs. față de ortografia drăguță este nejustificată, deoarece nu sunteți participanți obișnuiți la concursuri.		neutral
+20147e_56930		 În al doilea rând, teoria economică prezice că unele stimulente contează mai mult decât altele, iar datele confirmă faptul că execuțiile previn crimele, dar condamnările previn și mai multe crime.		 Criminalii executați nu vor mai ucide niciodată.		neutral
+137874e_57565		 O organizație efectuase teste anuale ale planului său de recuperare în caz de dezastru pentru a identifica și corecta deficiențele planului.		 Exercițiile anuale de răspuns la dezastre au fost efectuate de un singur grup.		contradiction
+7291e_57977		 La urma urmei, el s-a născut în Texas.		 Nu s-a născut în Florida.		contradiction
+119430e_58412		 Crystal Cathedral (la 12141 Lewis Street, Garden Grove) este un monument al timpului său, fiind construită în ultimul sfert de secol de către evanghelistul de televiziune Robert Schuller.		 Evanghelistul de televiziune Robert Schuller este capabil din punct de vedere financiar să fie vârful de lance al unor proiecte mari.		neutral
+45946e_59039		 Orașul are mai mult decât suficiente obiective turistice de văzut, dar puteți gusta multe dintre plăcerile sale chiar înainte de a pune piciorul în muzee, biserici și monumente.		 Nu este nevoie să intrați în biserici și muzee pentru a vedea orașul.		contradiction
+137446e_60395		 Aceste timbre sunt valoroase acum.		 Ar costa foarte mult să cumpărăm acele timbre.		neutral
+48702e_60553		 Chiar dacă cubanezii ar duce lipsă de carne, Rodriguez ar avea bani pentru ventilatoare și valve cardiace.		 Rodriguez a primit întotdeauna materialele medicale de care avea nevoie, chiar și atunci când vremurile erau grele.		contradiction
+117579e_61517		 și când se întorceau trebuiau să servească în acest an și s-a dovedit a fi un fel de glumă cei pe care îi cunoșteam au ales întotdeauna Crucea Roșie pentru că nu făceau nimic.		 Oamenii aveau tendința de a alege Crucea Roșie pentru că era o muncă foarte ușoară.		contradiction
+86222e_62280		 Jon și Susan au vorbit puțin și ei.		 Jon și Susan nu puteau vorbi la fel de mult ca ceilalți, dar nu erau complet tăcuți.		neutral
+104058e_62729		 Și, mai mult decât oriunde altundeva în țară, Toscana și Umbria, regiunea învecinată, prezintă peisajul italian verde ideal, presărat cu orașe solide în vârful dealurilor, unde santinelele de chiparos veghează asupra plantațiilor de măslini răsuciți, iar podgoriile acoperă dealurile blânde.		 Umbria nu are ieșire la mare.		contradiction
+27677e_62813		 Publicația susține, de asemenea, că bărbia rătăcită a lui Carol Burnett este rezultatul unui implant care nu stă pe loc.		 Carol Burnett, la fel ca multe vedete, a fost acuzată de ani de zile că și-a făcut operații estetice.		neutral
+99585e_62924		 ăsta e un sentiment comun și eu empatizez cu el, pentru că mă bucur că soțul meu se pricepe la mașini, dar când intru în ele mă simt pierdută.		 Nici eu nu mă pricep prea bine la mașini.		contradiction
+32853e_63380		 Da, nu are		 Da, are.		contradiction
+134261e_63862		 Atât rata sărăciei, cât și numărul de săraci au crescut în 2001, ajungând la 11.		 Rata sărăciei și numărul de săraci au crescut în 2011.		contradiction
+62055e_64351		 Pe măsură ce dezvoltatorii elimină erorile, ei încorporează soluțiile într-o versiune zilnică a programului și testează această versiune pentru a se asigura că soluțiile nu provoacă erori suplimentare.		 Dezvoltatorii ucid insectele.		contradiction
+116862e_67740		 Acest plan a fost conceput pentru a servi mai bine clienții, ajutându-i să își îmbunătățească cunoștințele și înțelegerea procesului de întocmire a declarațiilor fiscale.		 Căsuțele care se află în apropierea țărmului sunt foarte luxoase. 		neutral
+130866e_67941		 nu avem nevoie de o mare precizie, ci doar de estimări rezonabile pentru a examina sensibilitatea costului total unitar la volumul pe cap de locuitor.		 Aceștia au spus că estimările vor fi bune.		neutral
+107758e_69656		 Coasta de aici este aproape nelocuită.		 Coasta de aici are multă viață.		contradiction
+86225e_70261		 Jon și Susan au stat cu ei.		 Jon și Susan s-au așezat la bar cu prietenii lor.		neutral
+101194e_70342		 Nu trebuie să existe nicio întârziere."		 Amânarea ar fi o idee proastă.		neutral
+86452e_70888		 Întrebări de evaluare Cauză și efect		 Cauza și efectele acestor întrebări de evaluare au un impact masiv. 		neutral
+40152e_71775		 Pentru că avocații competenți din practica corporatistă nu vor să se implice.		 Mulți avocați care practică dreptul societăților comerciale sunt într-adevăr destul de competenți. 		neutral
+31020e_72259		 În schimbul unor plăți fixe către împărat, funcționarii Companiei colectau venituri.		 Compania nu a oficializat veniturile colectate cu plăți fixe. 		contradiction
+23080e_72306		 (fără beneficii suplimentare) a fost de 24.076 de dolari pentru lucrătorii americani cu normă întreagă în acel an.		 Beneficiile extrasalariale nu sunt incluse.		contradiction
+4590e_73881		 um, ei bine, îmi place Europa, cu excepția Belgiei		 Belgia este singura țară europeană care nu-mi place.		contradiction
+72747e_74402		 Există un nume pentru acest personal. Se numește Pass the Trash.		 Acest personal a fost primit pentru că este sub standard.		neutral
+77317e_75998		 В этом случае, как и в случае с другими компаниями, в которых мы имеем дело, мы не можем не учитывать их интересы.		 Cosmeticele sunt reglementate de FDA.		neutral
+33755e_76789		 Sunt nomazi foarte individualiști, care se întâlnesc ocazional pentru a împărți o cină cu fructe înainte de a pleca pe drumul lor.		 Acești nomazi sunt foarte independenți și preferă să călătorească fără companie. 		contradiction
+123944e_81510		 Dacă teoria sa ar fi fost adevărată, ascensiunea lui Edmund Hillary pe Muntele Everest ar fi fost motivată de dorința de a testa noi rezervoare de oxigen, iar Joshua Slocum ar fi făcut înconjurul lumii pentru a acumula mile de navigație frecventă.		 Teoria sa este una ridicolă și nu ar trebui luată în serios.		contradiction
+39612e_81605		 Prudie nu a auzit nimic despre planta thailandeză.		 Aceasta este prima dată când Prudie a auzit de planta thailandeză.		contradiction
+143570e_82498		 Esența explicării crizei rachetelor cubaneze.		 Criza rachetelor cubaneze are legătură cu armata.		neutral
+141447e_82522		 Autostrada continuă paralel cu coasta.		 Dacă mergeți pe autostradă, nu veți atinge nicio apă.		neutral
+91310e_83721		 știi, practic ți-ai folosit toate resursele acolo.		 Sunteți toți fără resurse.  		contradiction
+132185e_84183		 Astfel de cursuri de apă există și în afara insulei Madeira, dar nicăieri nu sunt atât de accesibile și nu acoperă o suprafață atât de mare.		 Cursurile de apă din Madeira sunt cele mai mari și cele mai accesibile.		contradiction
+136052e_85844		 După cum notează Washington Post pe prima pagină, Gore a făcut tot posibilul să ascundă rolul lui Wolf.		 Rolul lui Wolf era un secret foarte bine păzit.		neutral
+92738e_86990		 Ceea ce vreau să știu este unde sunt.		 Ei nu sunt aici.		contradiction
+24920e_88601		 Ei bine, ei sunt cei care au nevoie de case.		 Nu ei sunt cei care au nevoie de case. 		contradiction
+33506e_88896		 Da, mi-a făcut plăcere să vorbesc cu tine, Irene, și să-ți fie cald acolo sus.		 E destul de frig acolo sus chiar acum.		contradiction
+108689e_89497		 Aștept cu nerăbdare să testez aceste protocoale începând cu 2 decembrie 2002 și până la 30 iunie 2003.		 Testarea pilot va dura aproape șapte luni.		neutral
+129372e_89857		 Nu poți antrena pe cineva cum să tragă într-o situație de luptă până când nu a fost acolo. Am văzut asta în Liban. Am fost în invazia din Granada în optzeci și trei.		 Situațiile de luptă sunt dificile, chiar și după antrenament.		neutral

@@ -156,9 +156,9 @@ The model appears to start overfitting after the first two epochs.
 
 **Statistics:**
 - Total percentage mislabeled data (using Dataset Cartography): 0.08%  [data](./data/epoch6/cartography_mislabeled.txt)
-- Percentage mislabeled entailment data (using AUM): 0.01%  [data](./data/epoch6/mislabeled_entailment.txt)
-- Percentage mislabeled neutral data (using AUM): 0.02%  [data](./data/epoch6/mislabeled_neutral.txt)
-- Percentage mislabeled contradiction data (using AUM): 0.1%  [data](./data/epoch6/mislabeled_contradiction.txt)
+- Percentage mislabeled entailment data (using AUM): 0.02%  [data](./data/epoch6/mislabeled_entailment.txt)
+- Percentage mislabeled neutral data (using AUM): 0.03%  [data](./data/epoch6/mislabeled_neutral.txt)
+- Percentage mislabeled contradiction data (using AUM): 0.3%  [data](./data/epoch6/mislabeled_contradiction.txt)
 
 **Epoch 6 PCA Logits**
 ![Epoch 6 PCA Logits](./images/pca_epoch6.png)
